@@ -1,0 +1,15 @@
+.right{
+	position: absolute;
+  	right: 15px;
+	color: red;
+	width:150px;
+	height:25px;
+	margin: 0 auto 10px auto;
+	border:solid 03px black;
+	border-radius: 10px;
+	background-color:DeepSkyBlue;
+
+	text-align:center;
+	font-style:italic;
+	font-size: 15px;
+}
